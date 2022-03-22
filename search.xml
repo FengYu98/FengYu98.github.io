@@ -3,11 +3,18 @@
   <entry>
     <title>Hello World</title>
     <url>/2022/03/21/hello-world/</url>
-    <content><![CDATA[<hr>
-<p>上海依然大雨不断，疫情下的学校显得是如此的宁静。</p>
-<p>最近每天干着自己想做的事情，心情也好了许多，放在1个月前全然想不到此刻的状态，1个月都看不清，又何必去规划那更虚无缥缈的前方呢？Just Seize the Day.</p>
-<p>Hello World！</p>
-]]></content>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="64cf95011ebd3bb9b30c1241f91a8665a08422ffc44f6408ca41b066721d5d9e">39a47b21247086e358f13cbe9e27bf574865af8a3a0deab46d1c36420f497d79e5c65b4563da428cd9c9cd6dcb87aa55be033c35f3c7ca4f00a108fb02630034624c0dcbe111896d0346851052b4e24b9c237263b13d9de3379bb615cd01fb29fb905ad87d7cff843e0c800ca3e0a768858c9f870acf5b4edeb2a88dbcbdcade5471055569bac4b918451c6ccc41a3c09cdd1115c846484ae019cb9fe80009b77740bfdb1df6f14a2b2ebe6884758640a0545dfda736ce9f2b20381d20c997f822217a5d8b2d50ec50214302a53382d1515adc5f5427fcfb13f7b2dce43c77a30a848656198c15c18d31d0d27e0b541cf044605edbc1143dd85e1948eaf7a44df2c024457d798e2d40015a5822095ab5c53b08a8e11b5c78604d7db08a577c1b19eb785afa56ab62c559b3a0b214ea0b819d0134de63aaa8d69bddd41aeb2a7a334865fc03a09af33c80cd2a28bd259084fbbfb00db0cccf87e1a6016fab2772</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
   </entry>
   <entry>
     <title>220321复盘</title>
