@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Carpe Diem</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-03-22T01:27:42.977Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Feng Yu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>220321复盘</title>
+    <link href="http://example.com/2022/03/21/220321%E5%A4%8D%E7%9B%98/"/>
+    <id>http://example.com/2022/03/21/220321%E5%A4%8D%E7%9B%98/</id>
+    <published>2022-03-21T15:28:01.000Z</published>
+    <updated>2022-03-22T01:27:42.977Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天最让人难受的事情莫过于东航的飞机失事，自己能做的也就只有在心里为他们默默祈祷，等待官方的调查。&lt;/p&gt;
+&lt;p&gt;附上一篇让自己看到泪目的文章：&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="市场复盘" scheme="http://example.com/categories/%E5%B8%82%E5%9C%BA%E5%A4%8D%E7%9B%98/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2022/03/21/hello-world/"/>
+    <id>http://example.com/2022/03/21/hello-world/</id>
+    <published>2022-03-21T07:46:37.000Z</published>
+    <updated>2022-03-21T15:59:24.760Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;上海依然大雨不断，疫情下的学校显得是如此的宁静。&lt;/p&gt;
+&lt;p&gt;最近每天干着自己想做的事情，心情也好了许多，放在1个月前全然想不到此刻的状态，1个月都看不清，又何必去规划那更虚无缥缈的前方呢？Just Seize the Day.&lt;/p&gt;
+&lt;p&gt;Hello</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
